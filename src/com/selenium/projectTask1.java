@@ -35,6 +35,7 @@ public class projectTask1 {
 		findElement.click();
 		Thread.sleep(2000);
 		
+		//Github Trail Clone
 		
 		WebElement findElement2 = driver.findElement(By.xpath("//input[@class='desktop-searchBar']"));
 		findElement2.click();
